@@ -1,5 +1,7 @@
 # BigBrother
 
+This code was originally made by lucaskappel who became busy with life things. I will be taking over on any changes hopefully with the help of ChatGPT.
+
 This bot was made to support the City of Wolves DayZSA Server. 
 
 The actual RCON parts are done in bec_rcon.py, made by Yoshi-E:
